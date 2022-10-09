@@ -123,6 +123,16 @@ width:100%;
 }
 
 /*Imagenes del carrusel*/
+.carousel-item{
+    align-items: center;
+}
+.Edificio-item {
+    width: 1400px;
+    height: 800px;
+    margin: 30px 300px;
+    align-items: center;
+
+}
 
 /*media queries*/
 @media screen and (max-width:700px){
